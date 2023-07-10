@@ -1,1 +1,2 @@
-echo "Hello, World"."<br>"
+#!/bin/bash
+echo "Hello, World"
